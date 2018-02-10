@@ -7045,11 +7045,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\oscar\\Documents\\U\\Proyecto2\\Semana 3\\Laboratorio 3\\Lab3oCabezas\\Laboratorio3\\Laboratorio3\\Entities-POJO.csproj",
-      "projectName": "Entities-POJO",
-      "projectPath": "C:\\Users\\oscar\\Documents\\U\\Proyecto2\\Semana 3\\Laboratorio 3\\Lab3oCabezas\\Laboratorio3\\Laboratorio3\\Entities-POJO.csproj",
+      "projectUniqueName": "C:\\Users\\oscar\\Documents\\U\\Proyecto2\\Semana 3\\Laboratorio 3\\Lab3oCabezas\\Laboratorio3\\Entities POJO\\Entities POJO.csproj",
+      "projectName": "Entities POJO",
+      "projectPath": "C:\\Users\\oscar\\Documents\\U\\Proyecto2\\Semana 3\\Laboratorio 3\\Lab3oCabezas\\Laboratorio3\\Entities POJO\\Entities POJO.csproj",
       "packagesPath": "C:\\Users\\oscar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\oscar\\Documents\\U\\Proyecto2\\Semana 3\\Laboratorio 3\\Lab3oCabezas\\Laboratorio3\\Laboratorio3\\obj\\",
+      "outputPath": "C:\\Users\\oscar\\Documents\\U\\Proyecto2\\Semana 3\\Laboratorio 3\\Lab3oCabezas\\Laboratorio3\\Entities POJO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\oscar\\AppData\\Roaming\\NuGet\\NuGet.Config",

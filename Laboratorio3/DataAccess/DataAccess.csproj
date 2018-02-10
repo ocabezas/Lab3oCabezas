@@ -5,10 +5,4 @@
     <TargetFramework>netcoreapp1.1</TargetFramework>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="DataAccess\CRUD\" />
-    <Folder Include="DataAccess\DAO\" />
-    <Folder Include="DataAccess\Mapper\" />
-  </ItemGroup>
-
 </Project>

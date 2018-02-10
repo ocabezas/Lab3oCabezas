@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Laboratorio3.Entities
 {
-    class Produccion
+    class Produccion : BaseEntity
     {
         public int iD { get; set; }
         public DateTime productionDate { get; set; }
@@ -13,5 +13,10 @@ namespace Laboratorio3.Entities
         public int Value { get; set; }
         public int idAnimal { get; set; }
 
+
+        public Produccion()
+        {
+
+        }
     }
 }

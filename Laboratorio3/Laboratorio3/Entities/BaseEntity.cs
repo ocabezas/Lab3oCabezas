@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Laboratorio3.Entities
 {
-    public class Animal
+    public class BaseEntity
     {
 
     }

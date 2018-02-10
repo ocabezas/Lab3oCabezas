@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Laboratorio3.Entities
 {
-    class Animales : Animal
+    class Animales : BaseEntity
     {
 
         public int iD { get; set; }
@@ -14,6 +14,13 @@ namespace Laboratorio3.Entities
         public int age { get; set; }
         public DateTime dayOfBirth { get; set; }
         public string favoriteFood { get; set; }
+
+        public Animales()
+        {
+
+        }
     }
+
+   
 
 }
